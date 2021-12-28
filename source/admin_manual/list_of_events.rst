@@ -1709,6 +1709,11 @@ dns_request_finished
 +---------------------+------------------------------------------------------+
 | Field               | Description                                          |
 +=====================+======================================================+
+| cached              | Set to ``yes`` or ``no`` depending if it was         |
+|                     | a cached reply or not.                               |
+|                     |                                                      |
+|                     | .. versionadded:: 3.0                                |
++---------------------+------------------------------------------------------+
 | error               | Human readable error                                 |
 +---------------------+------------------------------------------------------+
 | error_code          | Error code usable with net_gethosterror()            |
