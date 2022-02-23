@@ -1,5 +1,6 @@
 # Minimal makefile for Sphinx documentation
 #
+# supercalifragilisticexpialidocious
 
 # You can set these variables from the command line.
 SPHINXOPTS    += -W
