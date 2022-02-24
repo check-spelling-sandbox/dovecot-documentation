@@ -1190,6 +1190,7 @@ Subtables
 subvalue
 sudo
 sudoers
+supercalifragilisticexpialidocious
 SUSE
 svbin
 swapoff
