@@ -361,7 +361,7 @@ See :ref:`settings` for list of all setting groups.
 
    The UNIX socket path to the master authentication server for finding users.
 
-   It is usually not necessary nor advisable to change the default.
+   It is usually neither necessary nor advisable to change the default.
 
 
 .. dovecot_core:setting:: auth_ssl_require_client_cert
@@ -904,7 +904,7 @@ See :ref:`settings` for list of all setting groups.
    ``delay-newmail``
 
       EXISTS/RECENT new-mail notifications are sent only in replies to NOOP
-      and CHECK commands. Some clients, such as pre-2.1 versions of OSX
+      and CHECK commands. Some clients, such as pre-2.1 versions of Mac OS X
       Mail, ignore them otherwise, and, worse, Outlook Express may report
       that the message is no longer on the server (note that the workaround
       does not help for OE6 if synchronization is set to Headers Only).

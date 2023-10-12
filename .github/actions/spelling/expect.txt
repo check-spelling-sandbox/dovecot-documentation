@@ -1,8 +1,8 @@
 aad
 ACAP
 ACCESSKEY
-achara
 ACCOUNTNAME
+achara
 actimeo
 addflag
 addhdr
@@ -71,7 +71,6 @@ BDAT
 bernat
 bindir
 bitfield
-bitmask
 BITMIME
 blitiri
 blkid
@@ -129,9 +128,9 @@ codahale
 codinghorror
 coi
 commitlog
-CONTAINERNAME
 Compuserve
 CONDSTORE
+CONTAINERNAME
 copybox
 COPYUID
 coretest
@@ -316,6 +315,7 @@ geodb
 gethosterror
 getmail
 GETSCRIPT
+gitlab
 Gluster
 gmatch
 gno
@@ -396,13 +396,11 @@ inute
 invol
 IOERR
 ioloop
-iostream
 ipairs
 ipt
 iredmail
 ispmail
 isps
-istream
 ITERINDEX
 itip
 jan
@@ -414,7 +412,6 @@ johnd
 johndoh
 joulu
 junkflag
-jvm
 kadmin
 kde
 kdump
@@ -586,9 +583,9 @@ missingok
 mkcert
 mkhomedir
 mmap
+mmaped
 mmencode
 MMIME
-mnt
 modseq
 mountpoint
 mozilla
@@ -701,15 +698,13 @@ opsec
 optboolean
 optname
 oqmgr
+OR'ing
 orcpt
 origbox
-OR'ing
 ORing
 orld
 OSERROR
 OSFILE
-ostream
-OSX
 otherinstance
 otp
 OUTOFMEM
@@ -742,7 +737,6 @@ popclient
 porkmail
 postconf
 postfixadmin
-postgre
 postgresql
 postgrey
 postlogin
@@ -814,6 +808,7 @@ resolv
 resyncing
 resyncronized
 RFCs
+rhel
 RHu
 RLIMIT
 rmail
@@ -1074,7 +1069,6 @@ Venema
 vfile
 vfuncs
 vgdb
-virtualdate
 virtualenv
 virtualised
 virustest
