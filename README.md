@@ -12,7 +12,7 @@ the ability to layer additional VitePress (and [Vue](https://www.vuejs.org))
 functionality on top of it, i.e. the ability to use templates/variables to
 generate page content.
 
-Most maintenance tasks on the JavaScript code use simple functionality using
+Most mintenance tasks on the JavaScript code use simple functionality using
 basic JavaScript components. The Mozilla reference page might be useful if
 there are any questions:
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
